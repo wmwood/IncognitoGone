@@ -264,6 +264,7 @@ Small Device Styles
 	}
 	#logo {
 		width: 100px;
+		right: 5px;
 	}
 	.inner {
 		min-width: 320px;
